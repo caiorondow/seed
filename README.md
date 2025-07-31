@@ -1,5 +1,5 @@
 # seed
-A 2D game engine with a component-based architecture
+A 2D game engine with a component-based architecture using C++ and SDL2
 
 ## IQ Game, powered by seed 
 
